@@ -956,7 +956,7 @@ body {
 
 .checkbox-form-policy::before {
   content: '';
-  background-image: url(../image/icon//sqare-check.svg);
+  background-image: url(../image/icon/sqare-check.svg);
   background-size: content;
   background-position: center;
 
@@ -970,7 +970,7 @@ body {
 }
 
 .checkbox-form:checked + .checkbox-form-policy:before {
-  background-image: url(../image/icon/Icon-check.svg);
+  background-image: url(../image/icon/icon-check.svg);
 }
 
 .checkbox-form:focus + .checkbox-form-policy:before {
